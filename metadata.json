@@ -1,0 +1,8 @@
+{
+  "name": "StockVision 2X Dashboard",
+  "description": "A high-potential stock monitoring dashboard identifying assets with 2x or more analyst price targets, including technical and financial indicators.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
